@@ -1,6 +1,6 @@
 # 100 Days of DevOps Challenge — KodeKloud
 
-> My hands-on journey through 100 real-world DevOps tasks from the [KodeKloud Engineer](https://engineer.kodekloud.com/) challenge.
+> My hands-on journey through 100 real-world DevOps tasks from the [KodeKloud Engineer](https://kodekloud.com/100-days-of-devops) challenge.
 
 ![Progress](https://img.shields.io/badge/progress-7%2F100-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/belhayani/100-days-of-devops)
@@ -25,8 +25,8 @@ This repository documents my solutions to 100 practical DevOps challenges coveri
 | 003 | Secure Root SSH Access | [Solution](./tasks/day-003.md) |
 | 004 | Script Execution Permissions | [Solution](./tasks/day-004.md) |
 | 005 | SElinux Installation and Configuration | [Solution](./tasks/day-005.md) |
-| 006 | Create a Cron Job | [Solution](./tasks/day-004.md) |
-| 007 | Linux SSH Authentication | [Solution](./tasks/day-005.md) |
+| 006 | Create a Cron Job | [Solution](./tasks/day-006.md) |
+| 007 | Linux SSH Authentication | [Solution](./tasks/day-007.md) |
 ---
 
 ## Repository Structure
